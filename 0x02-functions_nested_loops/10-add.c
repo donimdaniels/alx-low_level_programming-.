@@ -2,12 +2,13 @@
 #include <stdio.h>
 
 /**
- * add - function that adds two integers together
- * @a: takes in an integer
- * @b: takes in an integer
- * Return: a + b result
+ * add - prints add two numbers
+ * @i: print int i
+ * @k: print int k
+ * Return: Always 0.
  */
-int add(int a, int b)
+
+int add(int i, int k)
 {
 return (a + b);
 }
